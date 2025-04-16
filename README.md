@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG" width="320" alt="Alireza Coding Gif" />
+  <img src="https://media1.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=6c09b952v66up6naz3navj1wx2r8n6iz9u0qt8y9em5i2ke4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="320" alt="Alireza Coding Gif" />
   <h1>سلام! من علیرضا هستم</h1>
   <h3>Hi, I'm Alireza — A Passionate Frontend Developer from Iran</h3>
 </div>
