@@ -17,7 +17,7 @@
 
 ```
 
-</hr>
+---
 
 ## ⚙️ مهارت‌ها | Tech Stack
 
@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-github-96.png" width="48px" height="48px"/></a>
-  <a href="https://alirezadeveloper5@gmail.com"><img src="./asset/logos/icons8-gmail-48.png"/></a>
+  <a href="mailto:alirezadeveloper5@gmail.com"><img src="./asset/logos/icons8-gmail-48.png"/></a>
   <a href="https://t.me/FRONT_END_DEVELOPER01010"><img src="./asset/logos/icons8-telegram-48.png"/></a>
   <a href="https://www.instagram.com/alireza_shaghagh88?igsh=NDB3azBlNWl3cDht"><img src="./asset/logos/icons8-instagram-48.png"/></a>
   <a href="https://wa.me/qr/MIVLOR2YPS5KH1"><img src="./asset/logos/icons8-whatsapp-48.png"/></a> 
