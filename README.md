@@ -1,10 +1,9 @@
 <div align="center">
   <img width="50%" src="./asset/Readme_Head.gif" height="50%" alt="Alireza Coding Gif" />
   <h1>Hi , I'm Alireza💙</h1>
-  <h2>💙درود من علیرضا هستم</h2>
 </div>
 
-## 🧑‍💻 درباره من | About Me
+## 🧑‍💻  About Me
 
 ```Json
 {
@@ -19,7 +18,7 @@
 
 ---
 
-## ⚙️ مهارت‌ها | Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
   <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-html5-96.png"/></a>
@@ -37,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats | وضعیت گیت هاب
+## 📊 GitHub Stats 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlirezaDev00&show_icons=true&theme=radical" alt="Alireza's GitHub Stats"/>
@@ -47,14 +46,14 @@
 
 ---
 
-## 📂 پروژه های درحال کار | Working Projects
+## 📂 Working Projects
 
 | پروژه           | توضیح                                         |
 | --------------- | --------------------------------------------- |
-| **Cms**         | یک پروژه برای مدیریت محصولات و مدیریت کاربران |
-| **Weather App** | پروژه ای برای هواشناسی                        |
-| **Pagination**  | پروژه ای برای مدیریت صفحات                    |
-| **Coffee Shop** | یک کافی شاپ برای مغازه کافی شاپ               |
+| **Cms**         | A DashBoard For Product And Users Management For Admin |
+| **Weather App** | A Project For Weather Status|
+| **Pagination**  | A Project For Management Pages|
+| **CoffeeShop** | A CoffeeShop Site For A CoffeeShop|
 
 ---
 
