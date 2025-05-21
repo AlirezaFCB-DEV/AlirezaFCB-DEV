@@ -21,17 +21,17 @@
 ## ⚙️ Tech Stack
 
 <div align="center">
-  <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-html5-96.png"/></a>
-  <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-css3-96.png"/></a>
-  <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-javascript-96.png"/></a>
-  <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-npm-96.png"/></a>
-  <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-git-96.png"/></a>
-  <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-github-96.png"/></a>
-  <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-tailwindcss-96.png"/></a>
-  <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-react-96.png"/></a>
-  <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-typescript-96.png"/></a>
-   <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-python-96.png"/></a> 
-   <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-django-96 (1).png"/></a> 
+  <a href="https://github.com/AlirezaDev00"><img width="60px" src="./asset/logos/icons8-html5-96.png"/></a>
+  <a href="https://github.com/AlirezaDev00"><img width="60px" src="./asset/logos/icons8-css3-96.png"/></a>
+  <a href="https://github.com/AlirezaDev00"><img width="60px" src="./asset/logos/icons8-javascript-96.png"/></a>
+  <a href="https://github.com/AlirezaDev00"><img width="60px" src="./asset/logos/icons8-npm-96.png"/></a>
+  <a href="https://github.com/AlirezaDev00"><img swidth="60px" rc="./asset/logos/icons8-git-96.png"/></a>
+  <a href="https://github.com/AlirezaDev00"><img width="60px" src="./asset/logos/icons8-github-96.png"/></a>
+  <a href="https://github.com/AlirezaDev00"><img width="60px" src="./asset/logos/icons8-tailwindcss-96.png"/></a>
+  <a href="https://github.com/AlirezaDev00"><img width="60px" src="./asset/logos/icons8-react-96.png"/></a>
+  <a href="https://github.com/AlirezaDev00"><img width="60px" src="./asset/logos/icons8-typescript-96.png"/></a>
+   <a href="https://github.com/AlirezaDev00"><img width="60px" src="./asset/logos/icons8-python-96.png"/></a> 
+   <a href="https://github.com/AlirezaDev00"><img width="60px" src="./asset/logos/icons8-django-96 (1).png"/></a> 
 </div>
 
 ---
