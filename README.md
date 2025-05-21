@@ -48,7 +48,7 @@
 
 ## 📂 Working Projects
 
-| پروژه           | توضیح                                         |
+| Project | Details |
 | --------------- | --------------------------------------------- |
 | **Cms**         | A DashBoard For Product And Users Management For Admin |
 | **Weather App** | A Project For Weather Status|
