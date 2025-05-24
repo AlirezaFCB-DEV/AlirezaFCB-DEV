@@ -57,7 +57,7 @@
 
 ---
 
-## 📫 ارتباط با من | Contact Me
+## 📫 Contact Me
 
 <div align="center">
   <a href="https://github.com/AlirezaDev00"><img src="./asset/logos/icons8-github-96.png" width="48px" height="48px"/></a>
