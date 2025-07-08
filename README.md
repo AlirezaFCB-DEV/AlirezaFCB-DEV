@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="50%" src="./asset/Readme_Head.gif" height="50%" alt="Alireza Coding Gif" />
+  <img width="500px" src="./asset/Readme_Head.gif" height="400px" alt="Alireza Coding Gif" />
   <h1>Hi , I'm Alireza💙</h1>
 </div>
 
