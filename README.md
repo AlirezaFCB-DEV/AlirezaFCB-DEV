@@ -26,7 +26,7 @@
   <a href="https://github.com/AlirezaFCB-DEV"><img width="60px" src="./asset/logos/icons8-javascript-96.png"/></a>
   <a href="https://github.com/AlirezaFCB-DEV"><img width="60px" src="./asset/logos/icons8-npm-96.png"/></a>
   <a href="https://github.com/AlirezaFCB-DEV"><img swidth="60px" rc="./asset/logos/icons8-git-96.png"/></a>
-  <a href="https://github.com/AlirezaFCB-DEV"><img width="60px" src="./asset/logos/icons8-github-96.png"/></a>
+  <a href="https://github.com/AlirezaFCB-DEV"><img width="60px" src="./asset/logos/icons8-github-50.png"/></a>
   <a href="https://github.com/AlirezaFCB-DEV"><img width="60px" src="./asset/logos/icons8-tailwindcss-96.png"/></a>
   <a href="https://github.com/AlirezaFCB-DEV"><img width="60px" src="./asset/logos/icons8-react-96.png"/></a>
   <a href="https://github.com/AlirezaFCB-DEV"><img width="60px" src="./asset/logos/icons8-typescript-96.png"/></a>
