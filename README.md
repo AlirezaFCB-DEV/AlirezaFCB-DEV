@@ -9,9 +9,9 @@
 {
   "name" : "Alireza",
   "age" : 16,
-  "jobs" : ["FrontEnd Developer" , "Boxer" , "Trader" , "Learning FullStack"],
-  "favorites" : ["Boxing" , "Coding" , "Trading" , "Coffee" , "Family" , "Cars" , "Bikes"],
-  "details" : "I have been learning for two years and I am proficient in front-end development and I am planning to move to back-end for full-stack development and telegram bots or even AI. I have also been boxing for two years and I love it. I also work in financial markets."
+  "jobs" : ["FullStack Developer" , "Boxer" , "Trader" , "Learning AI" ],
+  "favorites" : ["Boxing" , "Coding" , "Money" , "Military" ,"Trading" , "Coffee" , "Family" , "Cars" , "Bikes"],
+  "details" : "I have been learning for three years and I am proficient in fullstack development and I am planning to move to AI for . I have also been boxing for three years and I love it. I also work in financial markets."
 }
 
 ```
@@ -32,7 +32,6 @@
   <a href="https://reactrouter.com/en/main"><img width="50px" src="./asset/logos/react-router-svgrepo-com.png"/></a>
   <a href="https://www.typescriptlang.org/docs/"><img width="50px" src="./asset/logos/icons8-typescript-96.png"/></a>
   <a href="https://www.linux.org/pages/download/"><img width="50px" src="./asset/logos/icons8-linux-50.png"/></a>
-  <a href="https://zorin.com/help/"><img width="50px" src="./asset/logos/icons8-zorin-50.png"/></a>
   <a href="https://www.python.org/doc/"><img width="50px" src="./asset/logos/icons8-python-96.png"/></a> 
   <a href="https://docs.djangoproject.com/en/stable/"><img width="50px" src="./asset/logos/icons8-django-96 (1).png"/></a> 
   <a href="https://learning.postman.com/docs/getting-started/introduction/"><img width="50px" src="./asset/logos/icons8-postman-inc-50.png"/></a>
@@ -66,10 +65,8 @@
 
 | Project         | Links                                    |
 | --------------- | ---------------------------------------- |
-| **Cms**         | Developing...                            |
-| **Weather App** | Developing...                            |
-| **Pagination**  | Developing...                            |
 | **CoffeeShop**  | <a href="https://erik-coffe-shop-urlo.vercel.app/">ErickCoffee</a> |
+| **Amazon**         | Developing...                            |
 
 ---
 
