@@ -66,7 +66,6 @@
 | Project         | Links                                    |
 | --------------- | ---------------------------------------- |
 | **CoffeeShop**  | <a href="https://erik-coffe-shop-urlo.vercel.app/">ErickCoffee</a> |
-| **Amazon**         | Developing...                            |
 
 ---
 
