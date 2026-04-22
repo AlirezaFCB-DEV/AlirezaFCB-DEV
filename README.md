@@ -11,7 +11,7 @@
   "age" : 16,
   "jobs" : ["FullStack Developer" , "Boxer" , "Trader" , "Learning AI" ],
   "favorites" : ["Boxing" , "Coding" , "Money" , "Military" ,"Trading" , "Coffee" , "Family" , "Cars" , "Bikes"],
-  "details" : "I have been learning for three years and I am proficient in fullstack development and I am planning to move to AI for . I have also been boxing for three years and I love it. I also work in financial markets."
+  "details" : "I have been learning for three years and I am proficient in fullstack development and I am planning to move to AI for future. I have also been boxing for three years and I love it. I also work in financial markets."
 }
 
 ```
